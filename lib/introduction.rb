@@ -1,4 +1,4 @@
-# def introduction(name)
+# def introduction(has_and_belongs_to_many)
 #  puts "Hi, my name is #{name}."
 #end
 
